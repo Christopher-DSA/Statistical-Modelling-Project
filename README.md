@@ -41,6 +41,7 @@ Spread of datapoints for user reviews, bidmodal distribution. It seems that most
 That is the two peaks in our distrubution.
 
 ## (your step 4)
+A simple linear regression model to see if their is a corellation between distance of bikestops and ratings of the bar on Yelp.
 ![image](https://github.com/Christopher-DSA/Statistical-Modelling-Project/assets/132075292/83d2bbdd-4555-404d-9ba8-de61ef1b5088)
 
 
