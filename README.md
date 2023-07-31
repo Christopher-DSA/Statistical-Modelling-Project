@@ -26,7 +26,7 @@ Yelp API: Collected data on bars near Toronto BikeShare stops.
 Cleaning, transforming and parsing the data with Python.
 For each of the json files we got back from the API'S I parsed the infromation required to test my hypothesis.
 
-## (your step 3)
+## Step 3:
 Performing EDA, using visualizations and statistics.
 
 
