@@ -70,8 +70,8 @@ When it came to my use case the yelp fusion api proved to be far superior due to
 ## Challenges 
 Learning the api's in such a short time frame was an interesting experience, this project gave me a major confidence boost when it comes to learning future API's.
 
-Parsing data, the different combinations of dictionries and lists in each json file was at first difficult to work with.
+Parsing data was tricky at first, the different combinations of dictionries and lists in each json file was jargon to me when starting but now through this practice I am comfortable
+performing parsing tasks.
 
 ## Future Goals
-(what would you do if you had more time?)
  If I had more time I would try different combinations of independent variables vs the rating of the restaurant to see if certian poi's being near a bar actually does  
