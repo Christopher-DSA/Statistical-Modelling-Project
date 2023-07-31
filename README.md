@@ -5,7 +5,7 @@ The goal of this process is to go through the whole data analysis process and an
 
 ## Process
 ### Step 1:
-Connecting to CityBikea Api:
+Connecting to CityBikes Api:
 
 Citybikes API: Collect data on the all the bike share rental stations in Toronto, Ontario.
 ### Step: 2:
