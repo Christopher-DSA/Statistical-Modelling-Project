@@ -31,7 +31,7 @@ Performing EDA, using visualizations and statistics.
 
 
 ![image](https://github.com/Christopher-DSA/Statistical-Modelling-Project/assets/132075292/0c214198-6f1d-4df3-b6c2-d50f086e026e)
-Bike hub distance vs Bar rating on Yelp.
+Bike hub distance vs Bar rating on Yelp. There doesn't seem to be an obvious pattern here, we will run a statistical test in the next steps to learn more.
 
 ---
 
