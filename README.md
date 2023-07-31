@@ -55,7 +55,11 @@ there is little to no correlation between how far a bar is from a bike stop and 
 
 ## Results
 
+#### Result:
 The Null Hypothesis was proven using the linear regression model, therfore there is no correlation between a bar and having bike stops nearby.
+
+#### Buisness Context of Results:
+The results of the data analysis safely concludes that business owners should not concern themselves with having bike stations installed near their bars if their goal is into increase ratings of their business.
 
 Yelp Fusions vs Foursquare api:
 When it came to my use casem the yelp fusion api proved to be far superior due to the extra data it could return like the ratings of each restaurant.
