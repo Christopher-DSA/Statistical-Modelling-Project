@@ -61,12 +61,12 @@ The Null Hypothesis was proven using the linear regression model, therfore there
 #### Buisness Context of Results:
 The results of the data analysis safely concludes that business owners should not concern themselves with having bike stations installed near their bars if their goal is into increase ratings of their business.
 
+---
+
 Yelp Fusions vs Foursquare api:
-When it came to my use casem the yelp fusion api proved to be far superior due to the extra data it could return like the ratings of each restaurant.
+When it came to my use case the yelp fusion api proved to be far superior due to the extra data it could return like the ratings of each bar.
 
-The results of my model. I have statistically proven there is no correlation between distance of a bikestop to a bar and the rating of the bar.
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
-
+---
 ## Challenges 
 (discuss challenges you faced in the project)
 Learning the api's was an interesting experience, this project gave me a confidence boost when it comes to learning future api's
