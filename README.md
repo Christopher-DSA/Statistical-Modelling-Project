@@ -46,7 +46,7 @@ A simple linear regression model to see if their is a correlation between distan
 ---
 ![image](https://github.com/Christopher-DSA/Statistical-Modelling-Project/assets/132075292/83d2bbdd-4555-404d-9ba8-de61ef1b5088)
 
-**R-Squared**: 0.936, this is saying that the model can explain 7.9% of the data, it seems like a very poor fit, this likely telling us that
+**R-Squared**: 0.079, this is saying that the model can explain 7.9% of the data, it seems like a very poor fit, this likely telling us that
 there is little to no correlation between how far a bar is from a bike stop and the rating of that bar.
 
 **coef**: the coef of distance is saying that for every 1 unit increase in distance, rating will decrease by -0.0035.
