@@ -37,7 +37,8 @@ Bike hub distance vs Bar rating on Yelp.
 
 ![image](https://github.com/Christopher-DSA/Statistical-Modelling-Project/assets/132075292/c774b63d-c846-4f24-865c-ee44a38d4e96)
 
-Spread of datapoints for user reviews, bidmodal distribution.
+Spread of datapoints for user reviews, bidmodal distribution. It seems that most users decide to leave a review when they either a really bad experience(1) or a really good experience (5),
+That is the two peaks in our distrubution.
 
 ## (your step 4)
 Identified trends and patterns in the data,
