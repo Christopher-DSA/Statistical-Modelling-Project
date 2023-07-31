@@ -4,9 +4,9 @@
 The goal of this process is to go through the whole data analysis process and answer a question with data.
 
 ## Process
-### (your step 1)
+### Step 1:
 Acessing data using APIs(Yelp and 4square)
-### (your step 2)
+### Step: 2:
 cleaning,transforming and parsing the data with Python.
 ## (your step 3)
 Performing EDA, using visualizations and statistics.
