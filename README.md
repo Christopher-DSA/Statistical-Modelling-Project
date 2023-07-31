@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-
+The goal of this process is to go through the whole data analysis process and answer a question with data.
 
 ## Process
 ### (your step 1)
