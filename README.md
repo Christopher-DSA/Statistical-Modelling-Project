@@ -42,6 +42,8 @@ That is the two peaks in our distrubution.
 
 ## Step 4:
 A simple linear regression model to see if their is a correlation between distance of bikestops and ratings of the bar on Yelp.
+
+---
 ![image](https://github.com/Christopher-DSA/Statistical-Modelling-Project/assets/132075292/83d2bbdd-4555-404d-9ba8-de61ef1b5088)
 
 **R-Squared**: 0.936, this is saying that the model can explain 7.9% of the data, it seems like a very poor fit, this likely telling us that
