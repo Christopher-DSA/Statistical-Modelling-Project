@@ -68,8 +68,7 @@ When it came to my use case the yelp fusion api proved to be far superior due to
 
 ---
 ## Challenges 
-(discuss challenges you faced in the project)
-Learning the api's was an interesting experience, this project gave me a confidence boost when it comes to learning future api's
+Learning the api's in such a short time frame was an interesting experience, this project gave me a major confidence boost when it comes to learning future API's.
 
 Parsing data, the different combinations of dictionries and lists in each json file was at first difficult to work with.
 
