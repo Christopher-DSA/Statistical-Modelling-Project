@@ -29,7 +29,8 @@ For each of the json files we got back from the API'S I parsed the infromation r
 ## (your step 3)
 Performing EDA, using visualizations and statistics.
 
-![test]('ScatterPlot')
+
+![image](https://github.com/Christopher-DSA/Statistical-Modelling-Project/assets/132075292/0c214198-6f1d-4df3-b6c2-d50f086e026e)
 
 ## (your step 4)
 Identified trends and patterns in the data,
