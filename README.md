@@ -54,6 +54,9 @@ there is little to no correlation between how far a bar is from a bike stop and 
 **P>|t|**: this value is 0.292 which means there is means there is plently of evidence that our null hypothesis is true, therefore we can conclude that data turned out the way did soley due to natrual variance.
 
 ## Results
+
+The Null Hypothesis was proven using the linear regression model, therfore there is no correlation between a bar and having bike stops nearby.
+
 Yelp Fusions vs Foursquare api:
 When it came to my use casem the yelp fusion api proved to be far superior due to the extra data it could return like the ratings of each restaurant.
 
