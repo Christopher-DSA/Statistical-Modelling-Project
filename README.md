@@ -41,9 +41,8 @@ Spread of datapoints for user reviews, bidmodal distribution. It seems that most
 That is the two peaks in our distrubution.
 
 ## (your step 4)
-Identified trends and patterns in the data,
-determined the buisness context of the results.
-## (intepreted the results of the statistical models)
+![image](https://github.com/Christopher-DSA/Statistical-Modelling-Project/assets/132075292/83d2bbdd-4555-404d-9ba8-de61ef1b5088)
+
 
 ## Results
 Yelp Fusions vs Foursquare api:
