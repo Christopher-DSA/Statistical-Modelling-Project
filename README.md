@@ -7,7 +7,12 @@ The goal of this process is to go through the whole data analysis process and an
 ### Step 1:
 Connecting to CityBikes Api:
 
-Citybikes API: Collect data on the all the bike share rental stations in Toronto, Ontario.
+Citybikes API: Collected data on the all the bike share rental stations in Toronto, Ontario.
+
+Foursquare API: Collected on bars near Toronto BikeShare stops.
+
+Yelp API: Collected data on bars near Toronto BikeShare stops. 
+(compared the results to the foursquare results)
 ### Step: 2:
 cleaning,transforming and parsing the data with Python.
 ## (your step 3)
