@@ -51,7 +51,7 @@ there is little to no correlation between how far a bar is from a bike stop and 
 
 **coef**: the coef of distance is saying that for every 1 unit increase in distance, rating will decrease by -0.0035.
 
-**P>|t|**: this value is 0.292 which means there is means there is plently of evidence that our null hypothesis is true therefore we can conclude that data turned out the way did soley due to natrual variance.
+**P>|t|**: this value is 0.292 which means there is means there is plently of evidence that our null hypothesis is true, therefore we can conclude that data turned out the way did soley due to natrual variance.
 
 ## Results
 Yelp Fusions vs Foursquare api:
