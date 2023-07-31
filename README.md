@@ -3,9 +3,9 @@
 ## Project/Goals
 The goal of this process is to go through the whole data analysis process and answer a question with data.
 
-The question: Is there a corelation between nearby BikeShare hubs and the rating of the bars in the surronding areas?
+**The question**: Is there a corelation between nearby BikeShare hubs and the rating of the bars in the surronding areas?
 
-Null Hypothesis (H0): There is no corelation between the bikeshare hubs and the rating of the bars nearby.
+**Null Hypothesis (H0)**: There is no corelation between the bikeshare hubs and the rating of the bars nearby.
 Alternative Hypothes (HA): There is a corelation between the bike share hubas and the rating of the bars nearby.
 
 ## Process
