@@ -29,7 +29,7 @@ For each of the json files we got back from the API'S I parsed the infromation r
 ## (your step 3)
 Performing EDA, using visualizations and statistics.
 
-![Link Name](Link URL)
+![test]('ScatterPlot.png')
 
 ## (your step 4)
 Identified trends and patterns in the data,
