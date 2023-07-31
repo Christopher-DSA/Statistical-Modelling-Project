@@ -37,6 +37,8 @@ Bike hub distance vs Bar rating on Yelp.
 
 ![image](https://github.com/Christopher-DSA/Statistical-Modelling-Project/assets/132075292/c774b63d-c846-4f24-865c-ee44a38d4e96)
 
+Spread of datapoints for user reviews, bidmodal distribution.
+
 ## (your step 4)
 Identified trends and patterns in the data,
 determined the buisness context of the results.
