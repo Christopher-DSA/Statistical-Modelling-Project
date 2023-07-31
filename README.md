@@ -74,5 +74,4 @@ Parsing data was tricky at first, the different combinations of dictionries and 
 performing parsing tasks.
 
 ## Future Goals
- If I had more time I would try different combinations of various independent variables vs the Yelp ratings of the restaurant to see if certian poi's being near a bar actually does have
-a signifigant correlation.
+If I had more time, I would try different combinations of various independent variables vs the rating of the restaurant to see if certain poi's being near a bar does have a significant correlation.
