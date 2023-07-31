@@ -21,11 +21,16 @@ Foursquare API: Collected on bars near Toronto BikeShare stops.
 
 Yelp API: Collected data on bars near Toronto BikeShare stops.
 (compared the results to the foursquare results)
+
 ### Step: 2:
 Cleaning, transforming and parsing the data with Python.
 For each of the json files we got back from the API'S I parsed the infromation required to test my hypothesis.
+
 ## (your step 3)
 Performing EDA, using visualizations and statistics.
+
+![Link Name](Link URL)
+
 ## (your step 4)
 Identified trends and patterns in the data,
 determined the buisness context of the results.
